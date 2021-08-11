@@ -1,0 +1,12 @@
+User-agent: *
+Allow: /
+Sitemap: https://solution-ko.pages.dev/satu.xml
+Sitemap: https://solution-ko.pages.dev/dua.xml
+Sitemap: https://solution-ko.pages.dev/tiga.xml
+Sitemap: https://solution-ko.pages.dev/empat.xml
+Sitemap: https://solution-ko.pages.dev/lima.xml
+Sitemap: https://solution-ko.pages.dev/enam.xml
+Sitemap: https://solution-ko.pages.dev/tujuh.xml
+Sitemap: https://solution-ko.pages.dev/delapan.xml
+Sitemap: https://solution-ko.pages.dev/sembilan.xml
+Sitemap: https://solution-ko.pages.dev/sepuluh.xml
